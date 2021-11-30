@@ -1,0 +1,28 @@
+{
+  "name": "numgen",
+  "version": "1.0.0",
+  "description": "a random number generator...imitating dice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/certyfreak/numGen.git"
+  },
+  "keywords": [
+    "dice",
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "certyfreak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/certyfreak/numGen/issues"
+  },
+  "homepage": "https://github.com/certyfreak/numGen#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

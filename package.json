@@ -2,7 +2,7 @@
   "name": "numgen",
   "version": "1.0.0",
   "description": "a random number generator...imitating dice",
-  "main": "index.js",
+  "main": "./scripts/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
